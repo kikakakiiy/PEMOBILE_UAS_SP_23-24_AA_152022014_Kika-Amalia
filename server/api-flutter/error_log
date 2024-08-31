@@ -1,0 +1,323 @@
+[08-Aug-2024 11:21:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tapr2331/public_html/api/v1/daily.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/daily.php on line 44
+[08-Aug-2024 11:21:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tapr2331/public_html/api/v1/daily.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/daily.php on line 44
+[08-Aug-2024 11:29:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tapr2331/public_html/api/v1/link.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 25
+[08-Aug-2024 11:30:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tapr2331/public_html/api/v1/link.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 25
+[08-Aug-2024 11:30:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tapr2331/public_html/api/v1/link.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 25
+[08-Aug-2024 11:30:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tapr2331/public_html/api/v1/link.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 25
+[08-Aug-2024 11:30:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tapr2331/public_html/api/v1/link.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 25
+[08-Aug-2024 11:30:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tapr2331/public_html/api/v1/link.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 25
+[08-Aug-2024 11:30:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tapr2331/public_html/api/v1/link.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 25
+[08-Aug-2024 11:33:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 46
+[08-Aug-2024 11:33:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 46
+[08-Aug-2024 11:33:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 46
+[08-Aug-2024 11:33:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 46
+[08-Aug-2024 11:34:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 46
+[08-Aug-2024 11:34:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 46
+[08-Aug-2024 11:34:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 46
+[08-Aug-2024 11:34:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 46
+[08-Aug-2024 11:34:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 46
+[08-Aug-2024 11:34:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 46
+[08-Aug-2024 11:34:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 46
+[08-Aug-2024 11:34:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 46
+[08-Aug-2024 11:34:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 46
+[08-Aug-2024 11:34:30 UTC] PHP Notice:  Undefined index: page in /home/tapr2331/public_html/api/v1/bonus.php on line 7
+[08-Aug-2024 11:34:30 UTC] PHP Notice:  Undefined index: items_per_page in /home/tapr2331/public_html/api/v1/bonus.php on line 8
+[08-Aug-2024 11:34:30 UTC] PHP Notice:  Undefined index: idBonus in /home/tapr2331/public_html/api/v1/bonus.php on line 11
+[08-Aug-2024 11:34:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 40
+[08-Aug-2024 11:35:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 40
+[08-Aug-2024 11:36:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 40
+[08-Aug-2024 11:36:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 40
+[08-Aug-2024 11:36:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tapr2331/public_html/api/v1/link.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/link.php on line 40
+[08-Aug-2024 11:38:12 UTC] PHP Notice:  Undefined index: page in /home/tapr2331/public_html/api/v1/paytable.php on line 7
+[08-Aug-2024 11:38:12 UTC] PHP Notice:  Undefined index: items_per_page in /home/tapr2331/public_html/api/v1/paytable.php on line 8
+[08-Aug-2024 11:38:12 UTC] PHP Notice:  Undefined index: idPayTable in /home/tapr2331/public_html/api/v1/paytable.php on line 11
+[08-Aug-2024 11:38:17 UTC] PHP Notice:  Undefined index: page in /home/tapr2331/public_html/api/v1/paytable.php on line 7
+[08-Aug-2024 11:38:17 UTC] PHP Notice:  Undefined index: items_per_page in /home/tapr2331/public_html/api/v1/paytable.php on line 8
+[08-Aug-2024 11:38:17 UTC] PHP Notice:  Undefined index: idPayTable in /home/tapr2331/public_html/api/v1/paytable.php on line 11
+[08-Aug-2024 11:38:24 UTC] PHP Notice:  Undefined index: page in /home/tapr2331/public_html/api/v1/user.php on line 7
+[08-Aug-2024 11:38:24 UTC] PHP Notice:  Undefined index: items_per_page in /home/tapr2331/public_html/api/v1/user.php on line 8
+[08-Aug-2024 11:38:24 UTC] PHP Notice:  Undefined index: idUser in /home/tapr2331/public_html/api/v1/user.php on line 11
+[08-Aug-2024 11:38:24 UTC] PHP Notice:  Undefined index: username in /home/tapr2331/public_html/api/v1/user.php on line 15
+[08-Aug-2024 11:38:24 UTC] PHP Notice:  Undefined index: name in /home/tapr2331/public_html/api/v1/user.php on line 19
+[08-Aug-2024 11:38:24 UTC] PHP Notice:  Undefined index: email in /home/tapr2331/public_html/api/v1/user.php on line 23
+[08-Aug-2024 11:38:24 UTC] PHP Notice:  Undefined index: firebaseId in /home/tapr2331/public_html/api/v1/user.php on line 27
+[08-Aug-2024 11:38:24 UTC] PHP Notice:  Undefined index: isBanned in /home/tapr2331/public_html/api/v1/user.php on line 31
+[08-Aug-2024 11:38:24 UTC] PHP Notice:  Undefined index: createdAt in /home/tapr2331/public_html/api/v1/user.php on line 35
+[08-Aug-2024 11:38:24 UTC] PHP Notice:  Undefined index: updatedAt in /home/tapr2331/public_html/api/v1/user.php on line 39
+[08-Aug-2024 11:38:30 UTC] PHP Notice:  Undefined index: page in /home/tapr2331/public_html/api/v1/paytable.php on line 7
+[08-Aug-2024 11:38:30 UTC] PHP Notice:  Undefined index: items_per_page in /home/tapr2331/public_html/api/v1/paytable.php on line 8
+[08-Aug-2024 11:38:30 UTC] PHP Notice:  Undefined index: idPayTable in /home/tapr2331/public_html/api/v1/paytable.php on line 11
+[08-Aug-2024 11:38:32 UTC] PHP Notice:  Undefined index: page in /home/tapr2331/public_html/api/v1/paytable.php on line 7
+[08-Aug-2024 11:38:32 UTC] PHP Notice:  Undefined index: items_per_page in /home/tapr2331/public_html/api/v1/paytable.php on line 8
+[08-Aug-2024 11:38:32 UTC] PHP Notice:  Undefined index: idPayTable in /home/tapr2331/public_html/api/v1/paytable.php on line 11
+[08-Aug-2024 22:22:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tapr2331/public_html/api/v1/claim-daily.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/claim-daily.php on line 34
+[08-Aug-2024 22:22:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tapr2331/public_html/api/v1/claim-daily.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/claim-daily.php on line 34
+[08-Aug-2024 22:22:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tapr2331/public_html/api/v1/claim-daily.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/claim-daily.php on line 34
+[08-Aug-2024 22:22:43 UTC] PHP Notice:  Undefined variable: id in /home/tapr2331/public_html/api/v1/claim-daily.php on line 31
+[08-Aug-2024 22:22:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tapr2331/public_html/api/v1/claim-daily.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/claim-daily.php on line 34
+[08-Aug-2024 22:22:56 UTC] PHP Notice:  Undefined index: idDaily in /home/tapr2331/public_html/api/v1/daily.php on line 11
+[08-Aug-2024 22:22:56 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/daily.php on line 15
+[08-Aug-2024 22:22:56 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/daily.php on line 19
+[08-Aug-2024 22:22:56 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/daily.php on line 23
+[08-Aug-2024 22:22:56 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/daily.php on line 27
+[08-Aug-2024 22:22:56 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/daily.php on line 27
+[09-Aug-2024 03:05:02 UTC] PHP Notice:  Undefined index: totalSpin in /home/tapr2331/public_html/api/v1/claim-weekly.php on line 31
+[09-Aug-2024 03:05:02 UTC] PHP Notice:  Undefined variable: id in /home/tapr2331/public_html/api/v1/claim-weekly.php on line 36
+[09-Aug-2024 03:05:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tapr2331/public_html/api/v1/claim-weekly.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/tapr2331/public_html/api/v1/claim-weekly.php on line 39
+[09-Aug-2024 03:05:04 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:05:04 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:05:04 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:05:04 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:05:04 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:05:04 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:05:04 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:05:04 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:04 UTC] PHP Notice:  Undefined index: idMission in /home/tapr2331/public_html/api/v1/claim-weekly.php on line 24
+[09-Aug-2024 03:10:06 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:10:06 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:10:06 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:10:06 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:10:06 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:10:06 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:10:06 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:06 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:11 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:10:11 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:10:11 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:10:11 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:10:11 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:10:11 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:10:11 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:11 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:16 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:10:16 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:10:16 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:10:16 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:10:16 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:10:16 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:10:16 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:16 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:21 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:10:21 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:10:21 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:10:21 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:10:21 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:10:21 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:10:21 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:21 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:26 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:10:26 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:10:26 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:10:26 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:10:26 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:10:26 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:10:26 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:26 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:31 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:10:31 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:10:31 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:10:31 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:10:31 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:10:31 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:10:31 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:31 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:36 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:10:36 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:10:36 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:10:36 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:10:36 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:10:36 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:10:36 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:36 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:40 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:10:40 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:10:40 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:10:40 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:10:40 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:10:40 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:10:40 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:40 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:45 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:10:45 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:10:45 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:10:45 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:10:45 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:10:45 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:10:45 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:45 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:48 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:10:48 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:10:48 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:10:48 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:10:48 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:10:48 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:10:48 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:48 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:53 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:10:53 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:10:53 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:10:53 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:10:53 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:10:53 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:10:53 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:53 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:56 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:10:56 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:10:56 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:10:56 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:10:56 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:10:56 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:10:56 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:10:56 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:11:01 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:11:01 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:11:01 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:11:01 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:11:01 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:11:01 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:11:01 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:11:01 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:11:06 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:11:06 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:11:06 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:11:06 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:11:06 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:11:06 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:11:06 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:11:06 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:11:11 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:11:11 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:11:11 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:11:11 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:11:11 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:11:11 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:11:11 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:11:11 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:11:14 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:11:14 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:11:14 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:11:14 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:11:14 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:11:14 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:11:14 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:11:14 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:11:19 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:11:19 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:11:19 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:11:19 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:11:19 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:11:19 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:11:19 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:11:19 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:11:19 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:11:19 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:11:19 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:11:19 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:11:19 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:11:19 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:11:19 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:11:19 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:11:25 UTC] PHP Notice:  Undefined index: idWeekly in /home/tapr2331/public_html/api/v1/weekly.php on line 11
+[09-Aug-2024 03:11:25 UTC] PHP Notice:  Undefined index: title in /home/tapr2331/public_html/api/v1/weekly.php on line 15
+[09-Aug-2024 03:11:25 UTC] PHP Notice:  Undefined index: type in /home/tapr2331/public_html/api/v1/weekly.php on line 19
+[09-Aug-2024 03:11:25 UTC] PHP Notice:  Undefined index: spinReward in /home/tapr2331/public_html/api/v1/weekly.php on line 23
+[09-Aug-2024 03:11:25 UTC] PHP Notice:  Undefined index: fromDate in /home/tapr2331/public_html/api/v1/weekly.php on line 27
+[09-Aug-2024 03:11:25 UTC] PHP Notice:  Undefined index: toDate in /home/tapr2331/public_html/api/v1/weekly.php on line 31
+[09-Aug-2024 03:11:25 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
+[09-Aug-2024 03:11:25 UTC] PHP Notice:  Undefined index: status in /home/tapr2331/public_html/api/v1/weekly.php on line 35
